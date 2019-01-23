@@ -125,3 +125,8 @@ button {
     margin-top: 30px;
     padding-top: 10px;
 }
+img {
+    width: 200px;
+    height: 200px;
+    max-width: 100%;
+}
