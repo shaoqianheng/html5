@@ -21,7 +21,7 @@
                     showPicture.src = imgURL;
 
                     // Revoke ObjectURL
-                    URL.revokeObjectURL(imgURL);
+                    // URL.revokeObjectURL(imgURL);
                 }
                 catch (e) {
                     try {
